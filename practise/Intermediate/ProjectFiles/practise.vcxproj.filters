@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\practise.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\practise.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\practiseEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\practise">
+      <UniqueIdentifier>{CCC392CE-B42D-3080-AE72-D05FFF9EB1E8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\practise\firstCharacter.cpp">
+      <Filter>Source\practise</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\practise\firstCharacter.h">
+      <Filter>Source\practise</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\practise\practise.Build.cs">
+      <Filter>Source\practise</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\practise\practise.cpp">
+      <Filter>Source\practise</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\practise\practise.h">
+      <Filter>Source\practise</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\practise\practiseGameModeBase.cpp">
+      <Filter>Source\practise</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\practise\practiseGameModeBase.h">
+      <Filter>Source\practise</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

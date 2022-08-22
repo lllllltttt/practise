@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\github\\practise\\practise\\intermediate\\build\\win64\\unrealeditor\\inc\\practise\\practisegamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\practise\\practise\\intermediate\\build\\win64\\practiseeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\github\\practise\\practise\\intermediate\\build\\win64\\unrealeditor\\development\\practise\\definitions.practise.h",
+            "d:\\github\\practise\\practise\\source\\practise\\practisegamemodebase.h",
+            "d:\\ue4.24\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue4.24\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue4.24\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\ue4.24\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\github\\practise\\practise\\intermediate\\build\\win64\\unrealeditor\\inc\\practise\\practisegamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

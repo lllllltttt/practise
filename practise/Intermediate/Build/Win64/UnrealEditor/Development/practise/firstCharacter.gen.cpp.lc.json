@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\github\\practise\\practise\\intermediate\\build\\win64\\unrealeditor\\inc\\practise\\firstcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\practise\\practise\\intermediate\\build\\win64\\practiseeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\github\\practise\\practise\\intermediate\\build\\win64\\unrealeditor\\development\\practise\\definitions.practise.h",
+            "d:\\github\\practise\\practise\\source\\practise\\firstcharacter.h",
+            "d:\\ue4.24\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue4.24\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue4.24\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\ue4.24\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue4.24\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\ue4.24\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\github\\practise\\practise\\intermediate\\build\\win64\\unrealeditor\\inc\\practise\\firstcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\github\\practise\\practise\\source\\practise\\practise.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\practise\\practise\\intermediate\\build\\win64\\practiseeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\github\\practise\\practise\\intermediate\\build\\win64\\unrealeditor\\development\\practise\\definitions.practise.h",
+            "d:\\github\\practise\\practise\\source\\practise\\practise.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

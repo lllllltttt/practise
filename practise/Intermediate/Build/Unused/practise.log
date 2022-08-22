@@ -1,0 +1,18 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\22446\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\practise).
+  Building practiseEditor...
+  Using Visual Studio 2019 14.29.30143 toolchain (D:\VS2019\VC\Tools\MSVC\14.29.30133) and Windows 10.0.20348.0 SDK (D:\SDK).
+  [Adaptive Build] Excluded from practise unity file: firstCharacter.cpp, practise.cpp, practiseGameModeBase.cpp
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+    Requested 1.5 GB free memory per action, 8.25 GB available: limiting max parallel actions to 5
+  Building 4 actions with 4 processes...
+  [1/4] Compile firstCharacter.cpp
+  [2/4] Link UnrealEditor-practise.lib
+    正在创建库 D:\GitHub\practise\practise\Intermediate\Build\Win64\UnrealEditor\Development\practise\UnrealEditor-practise.lib 和对象 D:\GitHub\practise\practise\Intermediate\Build\Win64\UnrealEditor\Development\practise\UnrealEditor-practise.exp
+  [3/4] Link UnrealEditor-practise.dll
+    正在创建库 D:\GitHub\practise\practise\Intermediate\Build\Win64\UnrealEditor\Development\practise\UnrealEditor-practise.suppressed.lib 和对象 D:\GitHub\practise\practise\Intermediate\Build\Win64\UnrealEditor\Development\practise\UnrealEditor-practise.suppressed.exp
+  [4/4] WriteMetadata practiseEditor.target
+  Total time in Parallel executor: 1.61 seconds
+  Total execution time: 2.09 seconds

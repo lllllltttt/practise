@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "practise",
+			"Path": "D:\\GitHub\\practise\\practise\\Source\\practise.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "practiseEditor",
+			"Path": "D:\\GitHub\\practise\\practise\\Source\\practiseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
